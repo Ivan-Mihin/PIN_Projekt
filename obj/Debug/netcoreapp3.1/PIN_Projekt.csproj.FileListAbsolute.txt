@@ -77,7 +77,6 @@ C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\PIN_
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\PIN_Projekt.RazorCoreGenerate.cache
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -169,3 +168,4 @@ C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razo
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Games\Edit.cshtml.g.cs
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Games\Index.cshtml.g.cs
 C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Games\ShowSearchForm.cshtml.g.cs
+C:\Users\ivanm\source\repos\PIN_Projekt\PIN_Projekt\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
