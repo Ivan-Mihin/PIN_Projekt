@@ -31,6 +31,12 @@ namespace PIN_Projekt.Controllers
             return View();
         }
 
+        // POST: Games/ShowSearchResults
+        public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
+        {
+            return View("Index", await _context.Game.Where(g => g.Description.Contains(SearchPhrase)).ToListAsync());
+        }
+
         // GET: Games/Details/5
         public async Task<IActionResult> Details(int? id)
         {
