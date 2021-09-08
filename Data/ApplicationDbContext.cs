@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using PIN_Projekt.Models;
 
 namespace PIN_Projekt.Data
 {
@@ -12,5 +13,6 @@ namespace PIN_Projekt.Data
             : base(options)
         {
         }
+        public DbSet<PIN_Projekt.Models.Game> Game { get; set; }
     }
 }
